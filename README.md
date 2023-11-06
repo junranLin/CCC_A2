@@ -1,5 +1,8 @@
 # CCC_A2 Repository User Guide
 
+## Report
+As the MRC is not availbale, read the [Report](COMP90024_Cluster_and_Cloud_Computing_Assignment_2_Group_1.pdf) for detailed implementation
+
 ## Team Member
 
 | Name | Student ID | GitHub Profile |
